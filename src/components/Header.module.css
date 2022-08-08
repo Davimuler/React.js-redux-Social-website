@@ -1,0 +1,32 @@
+.Header{
+  float: left;
+  font-size: 24px;
+  font-family: "Arial";
+  color:rgb(117, 0, 0);
+  text-decoration: none;
+  padding-top: 10px;
+  padding-left:20px;
+}
+.MainPage{
+  float: left;
+  font-size: 24px;
+  font-family: "Arial";
+  color:rgb(117, 0, 0);
+  text-decoration: none;
+  padding-top: 20px;
+}
+.Login {
+  float: right;
+  padding-top: 10px;
+  padding-right:20px;
+  font-size: 18px;
+}
+.LoginImg{
+  padding-top: 5px;
+  padding-right: 10px ;
+  float: right;
+  width: 50px;
+  height:50px;
+  border-radius: 100%;
+}
+

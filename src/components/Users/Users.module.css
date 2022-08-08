@@ -1,0 +1,19 @@
+.UsersPhoto{
+   width: 200px;
+   height: 200px; 
+}
+.SelectedPage{
+   font-weight: bold;
+      font-size: 18px;
+   padding: 2px;
+}
+.NotSelectedPage{
+   font-size: 14px;
+   padding: 2px;
+}
+.LoadingImg{
+   padding-top:150px;
+   padding-left:550px ;
+   width: 200px;
+   height: 200px;
+}

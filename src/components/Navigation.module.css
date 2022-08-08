@@ -1,0 +1,26 @@
+.item img{
+size: 50px;
+background-color: blueviolet;
+height: 50px;
+width:50px;
+}
+.img{
+  size: 50px;
+}
+.nav{
+  
+  background-color:yellow; 
+  padding: 20px;
+  
+  }
+  .nav a{
+    text-decoration: none;
+  }
+.a{
+  color:rgb(117, 0, 0);
+ 
+}
+.active{
+  color:red;
+  
+}
